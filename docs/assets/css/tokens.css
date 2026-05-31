@@ -1,6 +1,6 @@
 :root {
   /* Background / Surface */
-  --color-bg: #f1f5f9;
+  --color-bg: #e2e8f0;
   --color-surface: #ffffff;
   --color-surface-secondary: #f8fafc;
 
@@ -14,14 +14,14 @@
   --color-border-light: #f1f5f9;
 
   /* Accent */
-  --color-accent: #C9A84C;
-  --color-accent-hover: #B89435;
-  --color-accent-light: #FFF7E0;
-  --color-accent-text: #6F5416;
+  --color-accent: #2D2D2D;
+  --color-accent-hover: #1a1a1a;
+  --color-accent-light: #e4e4e7;
+  --color-accent-text: #1a1a1a;
 
   /* Button shadow — accent-tinted */
-  --color-accent-shadow: rgba(201, 168, 76, 0.22);
-  --color-accent-shadow-hover: rgba(201, 168, 76, 0.28);
+  --color-accent-shadow: rgba(45, 45, 45, 0.22);
+  --color-accent-shadow-hover: rgba(45, 45, 45, 0.28);
 
   /* Semantic */
   --color-success: #16a34a;

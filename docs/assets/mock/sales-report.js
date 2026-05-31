@@ -10,11 +10,5 @@
   { hostId: 'ken', sales: '¥0',       guests: 0, nominations: 0, dohan: '吉田 真由', after: '－'        },
   { hostId: 'jun',             sales: '¥0',       guests: 0, nominations: 0, dohan: '小林 里奈', after: '－'        },
   { hostId: 'hiroki',              sales: '¥0',       guests: 0, nominations: 0, dohan: '－',        after: '清水 恵美' },
-  { hostId: 'shota',          sales: '¥0',       guests: 0, nominations: 0, dohan: '加藤 遥',   after: '－'        },
-  { hostId: 'tatsuya',          sales: '¥0',       guests: 0, nominations: 0, dohan: '－',        after: '井上 理沙' },
-  { hostId: 'daisuke',              sales: '¥0',       guests: 0, nominations: 0, dohan: '木村 千尋', after: '－'        },
-  { hostId: 'kenji',   sales: '¥0',       guests: 0, nominations: 0, dohan: '－',        after: '－'        },
-  { hostId: 'tomoya',           sales: '¥0',       guests: 0, nominations: 0, dohan: '清水 恵美', after: '－'        },
-  { hostId: 'masato',              sales: '¥0',       guests: 0, nominations: 0, dohan: '－',        after: '－'        },
-  { hostId: 'shingo',            sales: '¥0',       guests: 0, nominations: 0, dohan: '－',        after: '－'        }
+  { hostId: 'shota',          sales: '¥0',       guests: 0, nominations: 0, dohan: '加藤 遥',   after: '－'        }
 ];

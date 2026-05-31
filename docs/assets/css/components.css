@@ -142,7 +142,7 @@
 .kpi-trend--up   { color: var(--color-success); }
 .kpi-trend--down { color: var(--color-danger); }
 
-.kpi-accent { border-top: 3px solid var(--color-accent); }
+.kpi-accent { border-top: 3px solid #C9A84C; }
 .kpi-card--success { border-top: 3px solid var(--color-success); }
 .kpi-card--warning { border-top: 3px solid var(--color-warning); }
 .kpi-card--danger  { border-top: 3px solid var(--color-danger);  }

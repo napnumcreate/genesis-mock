@@ -10,13 +10,7 @@ var HOST_SALARY = [
   { hostId: 'ken',     net: 134000, base:  80000, commission:  60000, salesBack:  48000, dohanBack: 12000, other: 0, deduction:  6000, status: '未支払' },
   { hostId: 'jun',     net: 124000, base:  80000, commission:  49000, salesBack:  39000, dohanBack: 10000, other: 0, deduction:  5000, status: '支払済' },
   { hostId: 'hiroki',  net: 114000, base:  80000, commission:  39000, salesBack:  31000, dohanBack:  8000, other: 0, deduction:  5000, status: '支払済' },
-  { hostId: 'shota',   net: 106000, base:  80000, commission:  30000, salesBack:  24000, dohanBack:  6000, other: 0, deduction:  4000, status: '支払済' },
-  { hostId: 'tatsuya', net:  99000, base:  80000, commission:  23000, salesBack:  18000, dohanBack:  5000, other: 0, deduction:  4000, status: '支払済' },
-  { hostId: 'daisuke', net:  95000, base:  80000, commission:  19000, salesBack:  15000, dohanBack:  4000, other: 0, deduction:  4000, status: '支払済' },
-  { hostId: 'kenji',   net:  90000, base:  80000, commission:  13000, salesBack:  10000, dohanBack:  3000, other: 0, deduction:  3000, status: '支払済' },
-  { hostId: 'tomoya',  net:  78000, base:  70000, commission:  10000, salesBack:   8000, dohanBack:  2000, other: 0, deduction:  2000, status: '支払済' },
-  { hostId: 'masato',  net:  63000, base:  60000, commission:   5000, salesBack:   4000, dohanBack:  1000, other: 0, deduction:  2000, status: '未支払' },
-  { hostId: 'shingo',  net:  61000, base:  60000, commission:   2000, salesBack:   2000, dohanBack:     0, other: 0, deduction:  1000, status: '未支払' }
+  { hostId: 'shota',   net: 106000, base:  80000, commission:  30000, salesBack:  24000, dohanBack:  6000, other: 0, deduction:  4000, status: '支払済' }
 ];
 
 var STAFF_SALARY = [
